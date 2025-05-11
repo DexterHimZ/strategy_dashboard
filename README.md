@@ -48,7 +48,7 @@ streamlit run stock_dashboard_grouped.py
 ---
 
 ## ☁️ Check out my deployed app
-https://himz-strategy.streamlit.app/
+https://strategydashboardhimz.streamlit.app/
 ---
 
 ## 🧠 Notes
